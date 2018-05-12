@@ -1,10 +1,16 @@
 _repo: The-History-of-Salt-With-Observations-on-the-Geographical-Distribution-Geological-Formation-E__47035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47035-h/images/cover.jpg
 creator:
   author:
     agent_name: Boddy, Evan Martlett
     gutenberg_agent_id: '44102'
     url: http://www.gutenberg.org/2009/agents/44102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47035#The-History-of-Salt-With-Observations-on-the-Geographical-Distribution-Geological-Formation-E_
 gutenberg_issued: '2014-10-03'
 gutenberg_type: Text
 identifiers:
